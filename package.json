@@ -1,0 +1,20 @@
+{
+  "name": "gulp-browserify-multiple",
+  "version": "0.1.0",
+  "description": "gulp-browserify for multiple files",
+  "main": "gulp-browserify-multiple.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsCONFIG/gulp-browserify-multiple.git"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "clpliuping@126.com",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp-browserify": "0.5.1",
+    "gulp": "3.9.0",
+    "glob": "7.0.3"
+  }
+}
